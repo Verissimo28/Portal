@@ -1,0 +1,5 @@
+#primary {
+    div:nth-child(2){
+        margin-inliene: auto;
+    }
+}
